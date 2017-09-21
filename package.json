@@ -1,0 +1,23 @@
+{
+  "name": "sceper-webhook",
+  "version": "0.1.0",
+  "description": "Discord webhook that checks the Sceper feed",
+  "main": "sceper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaTiemsz/Sceper-Webhook.git"
+  },
+  "author": "Tiemen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThaTiemsz/Sceper-Webhook/issues"
+  },
+  "homepage": "https://github.com/ThaTiemsz/Sceper-Webhook#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "rss-feed-emitter": "^1.0.7"
+  }
+}
